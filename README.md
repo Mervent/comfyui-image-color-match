@@ -22,7 +22,7 @@ Clone into your `custom_nodes` directory:
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/user/ComfyUI-Image-Color-Match.git
+git clone https://github.com/Mervent/ComfyUI-Image-Color-Match.git
 ```
 
 No additional dependencies required for `wavelet` and `adain` methods. The `color-matcher` package is automatically installed on first use of other methods.
