@@ -12,10 +12,6 @@ GPU-accelerated image color matching node for ComfyUI. Drop-in replacement for e
 
 ## Installation
 
-### ComfyUI Manager
-
-Search for **Image Color Match** in ComfyUI Manager and install.
-
 ### Manual
 
 Clone into your `custom_nodes` directory:
