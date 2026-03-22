@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-image-color-match"
+description = "GPU-accelerated image color matching for ComfyUI. Drop-in replacement for easy imageColorMatch with ~20-50x speedup on 4K images."
+version = "1.0.0"
+license = "MIT"
+requires-python = ">=3.9"
+
+[project.urls]
+Repository = "https://github.com/user/ComfyUI-Image-Color-Match"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Image Color Match (Fast)"
+Icon = ""
